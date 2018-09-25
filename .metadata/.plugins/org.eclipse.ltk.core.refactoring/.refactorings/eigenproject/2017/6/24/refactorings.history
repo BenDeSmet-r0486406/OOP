@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;DomainException.java&apos; to &apos;labo_overerving1/src/domain&apos;&#x0D;&#x0A;- Original project: &apos;eigenproject&apos;&#x0D;&#x0A;- Destination element: &apos;labo_overerving1/src/domain&apos;&#x0D;&#x0A;- Original element: &apos;domain.DomainException.java&apos;" description="Copy compilation unit" destination="=labo_overerving1/src&lt;domain" element1="/src&lt;domain{DomainException.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1497713385836" units="1" version="1.0"/>
+</session>
